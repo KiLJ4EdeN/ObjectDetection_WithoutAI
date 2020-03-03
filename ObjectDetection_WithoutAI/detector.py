@@ -1,11 +1,7 @@
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 from skimage.io import imread
-from skimage import data
-from skimage.filters import unsharp_mask
-from skimage.segmentation import clear_border
 from skimage.measure import label, regionprops
-from skimage.morphology import closing, square, dilation, disk
 from skimage.color import label2rgb, rgb2gray
 from skimage import feature
 from sci_utils import get_iou
@@ -14,9 +10,9 @@ import bbox
 
 # preprocessing and useful definitions.
 threshold = 0.6
-image = imread('6.jpg', as_gray=False)
+image = imread('img.jpg', as_gray=False)
 # load template and use the biggest box in it.
-template = imread('ref6.jpg', as_gray=True)
+template = imread('ref.jpg', as_gray=True)
 template = feature.canny(template, sigma=2)
 label_template = label(template, connectivity=2, background=0)
 template_area = 0
@@ -79,7 +75,7 @@ for k, region in enumerate(bboxes):
 
 ax.set_axis_off()
 plt.tight_layout()
-plt.savefig('output6.png')
+plt.savefig('output.png')
 print(f'{obj_count} objects found')
 plt.show()
 
