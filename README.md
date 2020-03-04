@@ -27,9 +27,14 @@ To see an example usage:
 python detect.py
 ```
 
-
+Input Image:
 ![](https://github.com/KiLJ4EdeN/ObjectDetection_WithoutAI/blob/master/ObjectDetection_WithoutAI/examples/2.jpg)
 
+Template Image:
+![](https://github.com/KiLJ4EdeN/ObjectDetection_WithoutAI/blob/master/ObjectDetection_WithoutAI/examples/ref2.jpg)
+
+Output:
+![](https://github.com/KiLJ4EdeN/ObjectDetection_WithoutAI/blob/master/ObjectDetection_WithoutAI/examples/output2.jpg)
 
 
 Methodology: 
