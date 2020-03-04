@@ -28,6 +28,9 @@ python detect.py
 ```
 
 
+![](https://github.com/KiLJ4EdeN/ObjectDetection_WithoutAI/blob/master/ObjectDetection_WithoutAI/examples/2.jpg)
+
+
 
 Methodology: 
 
