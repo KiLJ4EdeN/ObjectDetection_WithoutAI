@@ -5,7 +5,7 @@
 ![Issue closed](https://img.shields.io/github/issues-closed/KiLJ4EdeN/ObjectDetection_WithoutAI)
 
 
-Prerequisites:
+## Prerequisites:
 
 1 - Python
 
@@ -17,7 +17,7 @@ Prerequisites:
 
 5 - numpy
 
-To see an example usage:
+# To see an example usage:
 
 1 - Clone the repo
 
@@ -37,7 +37,7 @@ Output:
 ![](https://github.com/KiLJ4EdeN/ObjectDetection_WithoutAI/blob/master/ObjectDetection_WithoutAI/examples/output2.png)
 
 
-Methodology: 
+## Methodology: 
 
 In this technique a template of the desired object is chosen.
 Then a template area with a certain boundary in defined to search for optimal regions. For the analysis the input image is converted to gray-scale and then edges are extracted using skimage.feature.canny. Then the regions in the image are classified with skimage.measure.label using the connectivity method. Afterwards the derived regions are compared with the one from the template using the defined boundary. Lastly, to get more significant results, overlapping bounding-boxes are removed if they have 60% or more union percentage.
