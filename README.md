@@ -34,7 +34,7 @@ Template Image:
 ![](https://github.com/KiLJ4EdeN/ObjectDetection_WithoutAI/blob/master/ObjectDetection_WithoutAI/examples/ref2.jpg)
 
 Output:
-![](https://github.com/KiLJ4EdeN/ObjectDetection_WithoutAI/blob/master/ObjectDetection_WithoutAI/examples/output2.jpg)
+![](https://github.com/KiLJ4EdeN/ObjectDetection_WithoutAI/blob/master/ObjectDetection_WithoutAI/examples/output2.png)
 
 
 Methodology: 
