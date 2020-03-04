@@ -21,7 +21,14 @@
 
 1 - Clone the repo
 
-2 - Run:
+2 - Select the input and template images on this lines:
+```python
+image = imread('examples/2.jpg', as_gray=False)
+# load template and use the biggest box in it.
+template = imread('examples/ref2.jpg', as_gray=True)
+```
+
+3 - Run the script:
 
 ```bash
 python detect.py
