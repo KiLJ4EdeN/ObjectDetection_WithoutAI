@@ -10,9 +10,9 @@ import bbox
 
 # preprocessing and useful definitions.
 threshold = 0.6
-image = imread('img.jpg', as_gray=False)
+image = imread('examples/2.jpg', as_gray=False)
 # load template and use the biggest box in it.
-template = imread('ref.jpg', as_gray=True)
+template = imread('examples/ref2.jpg', as_gray=True)
 template = feature.canny(template, sigma=2)
 label_template = label(template, connectivity=2, background=0)
 template_area = 0
