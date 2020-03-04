@@ -23,7 +23,7 @@ To see an example usage:
 
 2 - Run:
 
-```python
+```bash
 python detect.py
 ```
 
