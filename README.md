@@ -17,6 +17,17 @@ Prerequisites:
 
 5 - numpy
 
+To see an example usage:
+
+1 - Clone the repo
+
+2 - Run:
+
+```python
+python detect.py
+```
+
+
 
 Methodology: 
 
