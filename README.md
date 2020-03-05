@@ -1,7 +1,7 @@
 # ObjectDetection_WithoutAI
 
 <a href="https://github.com/KiLJ4EdeN">
-    <img src="https://github.com/KiLJ4EdeN/ObjectDetection_WithoutAI/blob/master/logo/logo.PNG" title="logo" align="right" height="100" />
+    <img src="https://github.com/KiLJ4EdeN/ObjectDetection_WithoutAI/blob/master/logo/logo.PNG" title="logo" align="right" height="200" />
 </a>
 
 
