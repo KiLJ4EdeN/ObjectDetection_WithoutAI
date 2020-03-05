@@ -4,7 +4,7 @@
     <img src="https://github.com/KiLJ4EdeN/ObjectDetection_WithoutAI/blob/master/logo/logo.PNG" title="logo" align="right" height="200" />
 </a>
 
-
+ [![NO_AI!](https://github.com/KiLJ4EdeN/ObjectDetection_WithoutAI/blob/master/logo/logo.svg)](https://github.com/KiLJ4EdeN/)
 [![License](https://img.shields.io/github/license/KiLJ4EdeN/ObjectDetection_WithoutAI)](https://img.shields.io/github/license/KiLJ4EdeN/ObjectDetection_WithoutAI) [![Version](https://img.shields.io/github/v/tag/KiLJ4EdeN/ObjectDetection_WithoutAI)](https://img.shields.io/github/v/tag/KiLJ4EdeN/ObjectDetection_WithoutAI) [![Code size](https://img.shields.io/github/languages/code-size/KiLJ4EdeN/ObjectDetection_WithoutAI)](https://img.shields.io/github/languages/code-size/KiLJ4EdeN/ObjectDetection_WithoutAI) [![Repo size](https://img.shields.io/github/repo-size/KiLJ4EdeN/ObjectDetection_WithoutAI)](https://img.shields.io/github/repo-size/KiLJ4EdeN/ObjectDetection_WithoutAI) [![Issue open](https://img.shields.io/github/issues/KiLJ4EdeN/ObjectDetection_WithoutAI)](https://img.shields.io/github/issues/KiLJ4EdeN/ObjectDetection_WithoutAI)
 ![Issue closed](https://img.shields.io/github/issues-closed/KiLJ4EdeN/ObjectDetection_WithoutAI)
 
