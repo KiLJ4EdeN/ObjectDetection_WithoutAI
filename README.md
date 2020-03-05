@@ -1,7 +1,7 @@
 # ObjectDetection_WithoutAI
 
 <a href="https://github.com/KiLJ4EdeN">
-    <img src="https://cdn.shopify.com/shopifycloud/hatchful-web/assets/d80321286525089fe6b5a5d4759d0efd.svg" title="NO AI" align="right" height="60" />
+    <img src="https://ibb.co/S7mtHV2" title="NO AI" align="right" height="60" />
 </a>
 
 
@@ -53,4 +53,3 @@ Output:
 In this technique a template of the desired object is chosen.
 Then a template area with a certain boundary in defined to search for optimal regions. For the analysis the input image is converted to gray-scale and then edges are extracted using skimage.feature.canny. Then the regions in the image are classified with skimage.measure.label using the connectivity method. Afterwards the derived regions are compared with the one from the template using the defined boundary. Lastly, to get more significant results, overlapping bounding-boxes are removed if they have 60% or more union percentage.
  
-
